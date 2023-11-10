@@ -1,6 +1,10 @@
 {
+  "version": "1.2.0",
   "name": "fcc-learn-npm-package-json",
   "author": "Wendryo Sales",
+  "description": "A project that does something awesome",
+  "license": "MIT",
+  "keywords": [ "freecodecamp" ],
   "dependencies": {
     "express": "^4.14.0"
   },
